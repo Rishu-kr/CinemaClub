@@ -1,0 +1,55 @@
+.screened-container{
+    height: 100vh;
+    border:0.5px solid black;
+    /* margin:10vh 0 0 10vh; */
+    background-color:#695533;
+}
+.sdh{
+    margin:10vh 0 0 10vh;
+    color:#FFF0D4;
+}
+.box-container{
+    margin-top: 15vh;
+    width:100vw;
+    
+    display: flex;
+    
+    /* flex-direction: row; */
+    justify-content:space-evenly;
+
+    /* width: 100vw; */
+    
+}
+
+.box{
+    height: 50vh;
+    width: 38vh;
+    border-radius: 25px; 
+    background-clip: content-box;
+    background-size:38vh 50vh ;
+    background-repeat: no-repeat;
+    /* border:1px solid red; */
+    /* background-color: #C4C4C4; */
+    /* margin-right: 2vw; */
+
+}
+#bx1{
+    background-image: url('C:\Users\DELL\Desktop\cinema-main\cinema-club\public\images\good newz.jpg');
+    
+}
+#bx2{
+    background-image: url('C:\Users\DELL\Desktop\cinema-main\cinema-club\public\images\chhapaak.png');
+
+}
+#bx3{
+    background-image: url('C:\Users\DELL\Desktop\cinema-main\cinema-club\public\images\rocketry.jpeg');
+    
+}
+#bx4{
+    background-image: url('C:\Users\DELL\Desktop\cinema-main\cinema-club\public\images\karthikeya 2.jpeg');
+    
+    /* background-repeat: no-repeat; */
+}
+#bx5{
+    background-image: url('C:\Users\DELL\Desktop\cinema-main\cinema-club\public\images\URI.jpeg');
+}
